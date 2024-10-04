@@ -25,16 +25,17 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/mahm0udnasr/Netflix-Clone.git
-
+    ```
 
 2. **Navigate to the project directory:**
    ```bash
    cd Netflix-Clone
-
+    ```
 
 3. **Install the dependencies:**
    ```bash
-   cd Netflix-Clone
+   npm install
+   ```
 
 4. **Set up Firebase:**
   - Create a Firebase project at Firebase Console.
@@ -44,6 +45,7 @@ To run this project locally, follow these steps:
 5. **Run the development server:**
    ```bash
    npm start
+   ```
 6. Open your browser: Navigate to `http://localhost:3000` to view the application.
 
 # [HireMe](https://t.me/mahm0udnasr)
