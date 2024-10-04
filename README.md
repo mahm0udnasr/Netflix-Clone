@@ -11,7 +11,7 @@ You can view the live demo of the project [here](https://hitflix-movie.vercel.ap
 - User authentication with Firebase
 - Video playback functionality
 - Responsive design
-- 
+  
 ## Technologies Used
 
 - React
